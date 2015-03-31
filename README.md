@@ -1,0 +1,1 @@
+Created for [sindresorhus/gulp-zip#50](https://github.com/sindresorhus/gulp-zip/issues/50).

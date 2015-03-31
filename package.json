@@ -1,0 +1,13 @@
+{
+  "author": "Teamwork",
+  "name": "TeamworkChat",
+  "description": "TeamworkChat Client",
+  "version": "0.10.0",
+  "devDependencies": {
+    "gulp": "~3.8.6",
+    "gulp-load-plugins": "~0.5.1",
+    "gulp-size": "^0.4.0",
+    "gulp-zip": "~3.0.0",
+    "coffee-script": "^1.7.1"
+  }
+}
